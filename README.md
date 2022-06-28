@@ -13,7 +13,7 @@ TypeScript<br>
 Dart<br>
 Framework(Flutter)<br><br>
 
-### 📚 interest Languages & Framework 📚<br>
+### 📚 Languages of interest & Framework of interest 📚<br>
 Python<br>
 Framework(Flask, Falcon, FastAPI)<br>
 Library(NumPy, Pandas, Poetry, SQLAlchemy, Celery gspread)<br>
