@@ -2,27 +2,27 @@
 
 ### 📚 Language & Framework 📚<br>
 Python<br>
-Framework (Django)
-PHP
-Framework(Laravel, Wordpress)
-CSS
-UI Framework(Bootstrap, Tailwind)
-JavaScript
-Framework(jQuery, Vue.js, Nuxt.js)
-TypeScript
-Dart
-Framework(Flutter)
+Framework (Django)<br>
+PHP<br>
+Framework(Laravel, Wordpress)<br>
+CSS<br>
+UI Framework(Bootstrap, Tailwind)<br>
+JavaScript<br>
+Framework(jQuery, Vue.js, Nuxt.js)<br>
+TypeScript<br>
+Dart<br>
+Framework(Flutter)<br><br>
 
-### 📚 interest Languages & Framework 📚
-Python
-Framework(Flask, Falcon, FastAPI)
-Library(NumPy, Pandas, Poetry, SQLAlchemy, Celery gspread)
-Ruby
-Framework(Ruby on Rails)
-JavaScript
-Framework(React.js / Next.js)
-SASS / SCSS
-UI Framework(Bluma, Vuetify)
+### 📚 interest Languages & Framework 📚<br>
+Python<br>
+Framework(Flask, Falcon, FastAPI)<br>
+Library(NumPy, Pandas, Poetry, SQLAlchemy, Celery gspread)<br>
+Ruby<br>
+Framework(Ruby on Rails)<br>
+JavaScript<br>
+Framework(React.js / Next.js)<br>
+SASS / SCSS<br>
+UI Framework(Bluma, Vuetify)<br>
 
 
 <!--
