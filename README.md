@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-📚 Language & Framework 📚
-Python
+### 📚 Language & Framework 📚<br>
+Python<br>
 Framework (Django)
 PHP
 Framework(Laravel, Wordpress)
@@ -13,7 +13,7 @@ TypeScript
 Dart
 Framework(Flutter)
 
-📚 interest Languages & Framework 📚
+### 📚 interest Languages & Framework 📚
 Python
 Framework(Flask, Falcon, FastAPI)
 Library(NumPy, Pandas, Poetry, SQLAlchemy, Celery gspread)
