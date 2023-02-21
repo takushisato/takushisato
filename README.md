@@ -6,13 +6,7 @@ PHP (Laravel, Wordpress)<br>
 CSS UI Framework(Bootstrap, Tailwind)<br>
 JavaScript (jQuery, Vue.js, Nuxt.js)<br>
 TypeScript<br>
-Dart (Flutter)<br><br>
 
-### 📚 Languages of interest & Framework of interest 📚<br>
-Python (Flask, Falcon, FastAPI)(NumPy, Pandas, Poetry, SQLAlchemy, Celery gspread)<br>
-Ruby (Ruby on Rails)<br>
-JavaScript (React.js / Next.js)<br>
-SASS / SCSS UI Framework(Bluma, Vuetify)<br>
 
 
 <!--
