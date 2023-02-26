@@ -5,7 +5,7 @@ Python (Django)<br>
 PHP (Laravel, Wordpress)<br>
 CSS UI Framework(Bootstrap, Tailwind)<br>
 JavaScript (jQuery, Vue.js, Nuxt.js)<br>
-TypeScript<br><br><br>
+TypeScript<br><br>
 
 
 
