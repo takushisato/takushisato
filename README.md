@@ -13,7 +13,7 @@ TypeScript<br><br>
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&theme=onedark&column=7&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&theme=onedark&column=8&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **takushisato/takushisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
