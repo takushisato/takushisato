@@ -8,25 +8,17 @@
 ③cloudinaryを用いた画像保存システムの開発経験<br>
 ④Rest frameworkを用いたRestAPI開発経験<br>
 
-<br>
-
 #### Anaconda<br>
 ①スプレッドシートの取得と修正<br>
-
-<br>
 
 ### PHP
 #### Laravel<br>
 #### Wordpress<br>
 
-<br>
-
 ### CSS UI Framework
 #### Bootstrap<br>
 #### Tailwind<br>
 #### Vuetify)<br>
-
-<br>
 
 ### JavaScript
 #### jQuery<br>
