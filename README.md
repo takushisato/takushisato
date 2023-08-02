@@ -12,6 +12,6 @@ TypeScript<br>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takushisato&theme=onedark&show_icons=ture&count_private=true" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takushisato&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takushisato&show_icons=true&theme=transparent&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&theme=onedark&column=8&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
