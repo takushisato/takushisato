@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### 📚 Language & Framework 📚<br>
-Python(Django, Anaconda)<br>
+Python(Django, Anaconda, Flask)<br>
 PHP(Laravel, Wordpress)<br>
-CSS UI Framework(Bootstrap, Tailwind, Vuetify)<br>
-JavaScript(jQuery, Vue.js, Nuxt.js)<br>
+CSS UI Framework(Bootstrap, Tailwind, Vuetify, MUI)<br>
+JavaScript(jQuery, Vue.js, Nuxt.js, React)<br>
 TypeScript<br>
 
 <p align="left"> 
