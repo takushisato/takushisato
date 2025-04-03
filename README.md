@@ -53,9 +53,9 @@ I’m currently working on the following personal development projects:
 - 🤖 [Ai Talk App](https://github.com/takushisato/ai-talk-app)  
   It is a service that allows you to converse with AI. (Django + Nuxt.js)
 
-- 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)
+- 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
   A service that allows you to see high and low tides on a graph. (Nuxt.js)
-  
+
   - [View the live service here](https://sio-michihiki.com/)
 
 More projects are available on my portfolio → [View Portfolio](https://takushisato.github.io/portfolio/)
