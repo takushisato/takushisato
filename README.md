@@ -109,7 +109,8 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
         border-radius: 12px;
         background: #f6f8fa;
         max-width: 520px;
-        line-height: 1.6;">
+        line-height: 1.6;
+        ">
         <div style="font-weight: 700; margin-bottom: 4px;">🐾 Fun Fact</div>
         <blockquote style="margin: 0;">
           I love fishing and beer 🎣🐡🍻
