@@ -99,7 +99,7 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
       />
     </td>
     <td>
-** 💬 I love fishing and beer 🎣🐡🍻 ** 
+💬 I love fishing and beer 🎣🐡🍻
     </td>
   </tr>
 </table>
