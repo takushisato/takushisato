@@ -87,4 +87,10 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
 
 ---
 
-<h2>🐾 Fun Fact</h2><table style="border-collapse: collapse; border: 0;"> <tr> <td style="vertical-align: middle; padding: 8px; border: 0;"> <img src="https://raw.githubusercontent.com/takushisato/profile-image/main/profile-image.jpg" alt="Profile image" width="96" height="96" style="border-radius: 50%; object-fit: cover;" /> </td> <td style="vertical-align: middle; padding: 8px; border: 0;"> <div style=" display: inline-block; position: relative; padding: 12px 16px; border: 1px solid #d0d7de; border-radius: 12px; background: #f6f8fa; max-width: 520px; line-height: 1.6; "> <div style="font-weight: 700; margin-bottom: 4px;">🐾 Fun Fact</div> <p style="margin: 0;">I love fishing and beer 🎣🐡🍻</p> <svg width="16" height="16" viewBox="0 0 16 16" style="position: absolute; left: -8px; top: 24px;"> <path d="M16 8 L0 0 L0 16 Z" fill="#f6f8fa" stroke="#d0d7de"/> </svg> </div> </td> </tr> </table>
+## 🐾 Fun Fact
+
+|  |  |
+|---|---|
+| ![Profile](https://raw.githubusercontent.com/takushisato/profile-image/main/profile-image.jpg) | **🐾 Fun Fact**  
+I love fishing and beer 🎣🐡🍻 |
+
