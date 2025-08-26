@@ -88,6 +88,7 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
 ---
 
 ## 🐾 Fun Fact
+
 <table>
   <tr>
     <!-- 左：アイコン画像（丸く表示） -->
