@@ -88,4 +88,43 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
 ---
 
 ## 🐾 Fun Fact
-> I love fishing and beer 🎣🐡🍻
+<table>
+  <tr>
+    <!-- 左：アイコン画像（丸く表示） -->
+    <td style="vertical-align: middle; padding: 8px;">
+      <img
+        src="https://raw.githubusercontent.com/takushisato/profile-image/main/profile-image.jpg"
+        alt="Profile image"
+        width="96"
+        height="96"
+        style="border-radius: 50%; object-fit: cover;"
+      />
+    </td>
+
+    <!-- 右：吹き出し -->
+    <td style="vertical-align: middle; padding: 8px;">
+      <div style="
+        display: inline-block;
+        position: relative;
+        padding: 12px 16px;
+        border: 1px solid #d0d7de;
+        border-radius: 12px;
+        background: #f6f8fa;
+        max-width: 520px;
+        line-height: 1.6;
+        ">
+        <div style="font-weight: 700; margin-bottom: 4px;">🐾 Fun Fact</div>
+        <blockquote style="margin: 0;">
+          I love fishing and beer 🎣🐡🍻
+        </blockquote>
+
+        <!-- しっぽ（三角）: 画像側へ向ける -->
+        <svg width="16" height="16" viewBox="0 0 16 16"
+             style="position: absolute; left: -8px; top: 24px;">
+          <!-- 外側の枠色に合わせたストローク -->
+          <path d="M16 8 L0 0 L0 16 Z" fill="#f6f8fa" stroke="#d0d7de"/>
+        </svg>
+      </div>
+    </td>
+  </tr>
+</table>
