@@ -17,6 +17,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takushisato&theme=default&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takushisato&theme=default&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takushisato&theme=default&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takushisato&theme=default&utcOffset=９&count_private=true)
 
 ---
 
