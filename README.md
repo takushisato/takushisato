@@ -14,13 +14,11 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takushisato&layout=compact&show_icons=true&theme=onedark&count_private=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takushisato&theme=default&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takushisato&theme=default&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takushisato&theme=default&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takushisato&theme=default&utcOffset=9&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takushisato&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takushisato&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takushisato&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takushisato&theme=default&utcOffset=9)
 
 ---
 
