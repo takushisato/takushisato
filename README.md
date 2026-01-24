@@ -15,7 +15,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takushisato&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](http://localhost:8080/?username=takushisato&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default&count_private=true)
 
 ---
 
