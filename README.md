@@ -10,10 +10,6 @@
 
 ## 🚀 My Stats
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takushisato&layout=compact&show_icons=true&theme=onedark&count_private=true" />
-</p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takushisato&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takushisato&theme=default)
