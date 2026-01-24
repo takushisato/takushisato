@@ -13,12 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          UTC_OFFSET: 9
+          UTC_OFFSET: 9 # ← JST
         with:
           USERNAME: ${{ github.repository_owner }}
