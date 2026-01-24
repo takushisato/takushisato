@@ -10,13 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     name: generate
 
-    env:
-      TZ: Asia/Tokyo
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Generate Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          UTC_OFFSET: 9
         with:
           USERNAME: ${{ github.repository_owner }}
