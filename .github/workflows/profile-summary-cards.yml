@@ -16,4 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
+          BRANCH_NAME: "main"
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
