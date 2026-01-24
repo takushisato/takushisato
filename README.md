@@ -1,26 +1,27 @@
-# 👋 Hi there! I'm takushisato 
+# 👋 Hi there! I'm takushisato
 
 ## 🧑‍💻 About Me
+
 - 💼 **Job**: Freelance Developer
 - 🌍 **Location**: Miyagi, Japan
 - 🧪 **Tech Stack**: Python / JavaScript / TypeScript / React / Vue / Django / Flask / etc.
 - 🎯 **Interests**: Web Development, Automation, Open Source,
 - 📚 **Currently Learning**: I don't understand English so I'm studying English...
+
 ---
 
 ## 🚀 My Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takushisato&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takushisato&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takushisato&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takushisato&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takushisato&theme=default&utcOffset=9)
+[![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
 ## 🛠️ Skills
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -29,6 +30,7 @@
 etc.
 
 ### Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -36,6 +38,7 @@ etc.
 etc.
 
 ### Tools
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -65,7 +68,6 @@ I’m currently working on the following personal development projects:
 
 - 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
   A service that allows you to see high and low tides on a graph. (Nuxt.js)
-
   - [View the live service here](https://sio-michihiki.com/)
 
 More projects are available on my portfolio → [View Portfolio](https://takushisato.github.io/portfolio/)
