@@ -5,7 +5,7 @@
 - 💼 **職業**: フリーランスエンジニア
 - 🌍 **所在地**: 宮城県（日本）
 - 🧪 **技術スタック**: Python / JavaScript / TypeScript / React / Vue / Django / Flask / など
-- 🎯 **興味分野**: Web開発、業務自動化、オープンソース
+- 🎯 **興味分野**: Webシステム開発、業務自動化、AI導入支援
 - 📚 **現在勉強中**: 英語がまだ得意ではないので、英語を勉強しています...
 
 ---
@@ -15,7 +15,7 @@
 現在、以下の個人開発プロジェクトに取り組んでいます。
 
 - 🍚 [AIごはん相談室](https://ai-gohan.top)  
-  その日の気分や食材に合わせて、AIが献立の相談に乗ってくれるサービスです。
+  その日の気分や食材に合わせて、AIが献立の相談に乗ってくれるサービスです。<br>
   こちらはVPSで公開しています → https://ai-gohan.top
 
 - 🚧 [Factory Manager](https://github.com/takushisato/plant-manager-X)  
