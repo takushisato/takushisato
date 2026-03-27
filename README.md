@@ -16,7 +16,8 @@
 
 - 🍚 [AIごはん相談室](https://ai-gohan.top)  
   その日の気分や食材に合わせて、AIが献立の相談に乗ってくれるサービスです。<br>
-  こちらはVPSで公開しています → https://ai-gohan.top
+  課金機能も実装しています。<br>
+  VPSで公開しています → https://ai-gohan.top
 
 - 🚧 [Factory Manager](https://github.com/takushisato/plant-manager-X)  
   工場の運用管理や作業ログを管理するWebアプリです。（Django + React.js）
@@ -25,8 +26,8 @@
   AIと会話できるサービスです。（Django + Nuxt.js）
 
 - 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
-  潮の満ち引き（満潮・干潮）をグラフで確認できるサービスです。（Nuxt.js）
-  こちらはNetlifyで公開しています → https://sio-michihiki.com
+  潮の満ち引き（満潮・干潮）をグラフで確認できるサービスです。（Nuxt.js）<br>
+  Netlifyで公開しています → https://sio-michihiki.com
 
 その他のプロジェクトはポートフォリオに掲載しています → [ポートフォリオを見る](https://takushisato.github.io/portfolio/)
 
