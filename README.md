@@ -1,16 +1,38 @@
-# 👋 Hi there! I'm takushisato
+# 👋 こんにちは！takushisatoです
 
-## 🧑‍💻 About Me
+## 🧑‍💻 自己紹介
 
-- 💼 **Job**: Freelance Developer
-- 🌍 **Location**: Miyagi, Japan
-- 🧪 **Tech Stack**: Python / JavaScript / TypeScript / React / Vue / Django / Flask / etc.
-- 🎯 **Interests**: Web Development, Automation, Open Source,
-- 📚 **Currently Learning**: I don't understand English so I'm studying English...
+- 💼 **職業**: フリーランスエンジニア
+- 🌍 **所在地**: 宮城県（日本）
+- 🧪 **技術スタック**: Python / JavaScript / TypeScript / React / Vue / Django / Flask / など
+- 🎯 **興味分野**: Web開発、業務自動化、オープンソース
+- 📚 **現在勉強中**: 英語がまだ得意ではないので、英語を勉強しています...
 
 ---
 
-## 🚀 My Stats
+## 🧪 個人開発プロジェクト
+
+現在、以下の個人開発プロジェクトに取り組んでいます。
+
+- 🍚 [AIごはん相談室](https://ai-gohan.top)  
+  その日の気分や食材に合わせて、AIが献立の相談に乗ってくれるサービスです。
+  こちらはVPSで公開しています → https://ai-gohan.top
+
+- 🚧 [Factory Manager](https://github.com/takushisato/plant-manager-X)  
+  工場の運用管理や作業ログを管理するWebアプリです。（Django + React.js）
+
+- 🤖 [Ai Talk App](https://github.com/takushisato/ai-talk-app)  
+  AIと会話できるサービスです。（Django + Nuxt.js）
+
+- 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
+  潮の満ち引き（満潮・干潮）をグラフで確認できるサービスです。（Nuxt.js）
+  - [実際のサービスを見る](https://sio-michihiki.com/)
+
+その他のプロジェクトはポートフォリオに掲載しています → [ポートフォリオを見る](https://takushisato.github.io/portfolio/)
+
+---
+
+## 🚀 統計情報
 
 [![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -20,26 +42,26 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ スキル
 
-### Languages
+### 言語
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-etc.
+など
 
-### Frameworks & Libraries
+### フレームワーク・ライブラリ
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-etc.
+など
 
-### Tools
+### ツール
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -54,44 +76,28 @@ etc.
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-etc.
+など
 
 ---
 
-## 🧪 Personal Projects
 
-I’m currently working on the following personal development projects:
 
-- 🚧 [Factory Manager](https://github.com/takushisato/plant-manager-X)  
-  A web app for managing factory operations and work logs. (Django + React.js)
-
-- 🤖 [Ai Talk App](https://github.com/takushisato/ai-talk-app)  
-  It is a service that allows you to converse with AI. (Django + Nuxt.js)
-
-- 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
-  A service that allows you to see high and low tides on a graph. (Nuxt.js)
-  - [View the live service here](https://sio-michihiki.com/)
-
-More projects are available on my portfolio → [View Portfolio](https://takushisato.github.io/portfolio/)
-
----
-
-## 📫 Contact
+## 📫 連絡先
 
 - ✉️ Email: takuchanpower@gmail.com
 - 🐦 Twitter: [@taku820801](https://twitter.com/taku820801)
-- 📝 portfolio: [Takushi Sato Port Folio](https://takushisato.github.io/portfolio/)
+- 📝 ポートフォリオ: [Takushi Sato Port Folio](https://takushisato.github.io/portfolio/)
 
 ---
 
-## 🌱 Goals for This Year
+## 🌱 今年の目標
 
-- Contribute more to open-source
-- I will try my best to speak English...
+- オープンソースへの貢献を増やす
+- 英語で話せるように頑張るｗ
 
 ---
 
-<h2>🐾 Fun Fact</h2>
+<h2>🐾 ちょっとした話</h2>
 <table>
   <tr>
     <td>
@@ -103,7 +109,7 @@ More projects are available on my portfolio → [View Portfolio](https://takushi
       />
     </td>
     <td>
-💬 I love fishing and beer 🎣🐡🍻
+💬 釣りとビールが大好きです 🎣🐡🍻
     </td>
   </tr>
 </table>
