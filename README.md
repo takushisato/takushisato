@@ -26,7 +26,7 @@
 
 - 🎣 [Tide Graph](https://github.com/takushisato/michihiki-nuxt)  
   潮の満ち引き（満潮・干潮）をグラフで確認できるサービスです。（Nuxt.js）
-  - [実際のサービスを見る](https://sio-michihiki.com/)
+  こちらはNetlifyで公開しています → https://sio-michihiki.com
 
 その他のプロジェクトはポートフォリオに掲載しています → [ポートフォリオを見る](https://takushisato.github.io/portfolio/)
 
