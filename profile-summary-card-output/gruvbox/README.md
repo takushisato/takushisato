@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/takushisato/takushisato/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
+```
+
+    
